@@ -1,3 +1,23 @@
+# Restaurant Website
+
+A responsive and modern restaurant website built with ReactJS. This project serves as a frontend for showcasing restaurant features such as the menu, home page, about us, gallery, and contact sections. It is designed to be easily customized for any food business or personal portfolio.
+
+## 🚀 Features
+
+- ⚛️ Built with ReactJS
+- 📱 Fully responsive design
+- 🧾 Sections: Home, About, Menu, Gallery, Contact
+- 🖼️ Image gallery integration
+- ✨ Simple and elegant UI
+- 🔗 Smooth navigation
+
+## 🛠️ Tech Stack
+
+- ReactJS
+- HTML5 & CSS3
+- JavaScript
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +88,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# restaurant-website
